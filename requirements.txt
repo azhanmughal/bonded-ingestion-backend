@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+openai
+python-dotenv
+psycopg2-binary
+PyMuPDF==1.23.7           # for PDF parsing
+python-multipart          # for file uploads
+aiofiles                  # for async file handling
+requests                  # optional but often useful
+supabase
