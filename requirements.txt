@@ -9,3 +9,4 @@ aiofiles                  # for async file handling
 requests                  # optional but often useful
 supabase
 unstructured
+langchain
